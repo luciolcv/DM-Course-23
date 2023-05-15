@@ -1,10 +1,14 @@
-# Data Mining Course Material - A.Y. 2021-2022
+# Data Mining Course Material - A.Y. 2022-2023
 Python notebooks for the "Data Mining" course, Master Degree ("Laurea Magistrale") in Computer Engineering @ DIMES Dept, University of Calabria, CS, IT
 
 # Overview (work in progress..)
 > * Lecture 1 - Data Handling (Pandas) and Visualization (Matplotlib & Seaborn)
 > * Lecture 2 - Introduction to scikit-learn
-> * Lecture 3 - ??? :)
+> * Lecture 3 - Classification
+> * Lecture 4 - Anomaly Detection
+> * Lecture 5 - Ensemble Learning
+> * Lecture 6 - Association Rules
+> * Lecture 7 - ??? :)
 
 
 # Acknowledgements
